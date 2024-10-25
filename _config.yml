@@ -8,7 +8,7 @@ tagline:          ''
 description:      ''
 url:              https://fareedahg.github.io
 baseurl:          '/Blog-Assignment/'
-author: Fareedah Ganiyu
+author: FareedahGaniyu
 email: ganiyuf@myumanitoba.ca
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
