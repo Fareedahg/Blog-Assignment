@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            The Kaaba: A Sacred Center of Islamic Faith
+title:            'The Kaaba: A Sacred Center of Islamic Faith'
 tagline:          ''
 description:      ''
 url:              https://fareedahg.github.io
